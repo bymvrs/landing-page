@@ -73,3 +73,26 @@ button {
   border: none;
   font-weight: bold;
 }
+
+.dlc-section {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 530px;
+}
+
+.dlc-section h2 {
+  font-size: 36px;
+  margin: 42px 0;
+}
+
+.dlcs-container {
+  display: flex;
+  gap: 42px;
+}
+
+.dlcs-container div h3 {
+  font-size: 24px;
+  margin: 8px 0 6px 0;
+}
