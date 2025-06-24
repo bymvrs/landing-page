@@ -96,3 +96,29 @@ button {
   font-size: 24px;
   margin: 8px 0 6px 0;
 }
+
+.quote-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #dfdfdf;
+  height: 530px;
+}
+
+.quote-container {
+  width: 960px;
+}
+
+.quote-section p {
+  font-size: 36px;
+  margin: 32px 0;
+}
+
+.quote-section span {
+  font-weight: 600;
+}
+
+.quote-author {
+  font-weight: bold;
+  text-align: end;
+}
