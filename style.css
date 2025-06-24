@@ -42,6 +42,16 @@ ul {
   gap: 28px;
 }
 
+a {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+}
+
+a:hover {
+  color: #96babd;
+}
+
 .hero-section {
   display: flex;
   justify-content: center;
